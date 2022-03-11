@@ -1,0 +1,17 @@
+C:\Users\unilogistix\source\repos\SmartGatexApp\SmartGatex.Business\bin\Debug\net5.0\SmartGatex.Business.deps.json
+C:\Users\unilogistix\source\repos\SmartGatexApp\SmartGatex.Business\bin\Debug\net5.0\SmartGatex.Business.dll
+C:\Users\unilogistix\source\repos\SmartGatexApp\SmartGatex.Business\bin\Debug\net5.0\ref\SmartGatex.Business.dll
+C:\Users\unilogistix\source\repos\SmartGatexApp\SmartGatex.Business\bin\Debug\net5.0\SmartGatex.Business.pdb
+C:\Users\unilogistix\source\repos\SmartGatexApp\SmartGatex.Business\obj\Debug\net5.0\SmartGatex.Business.csproj.AssemblyReference.cache
+C:\Users\unilogistix\source\repos\SmartGatexApp\SmartGatex.Business\obj\Debug\net5.0\SmartGatex.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unilogistix\source\repos\SmartGatexApp\SmartGatex.Business\obj\Debug\net5.0\SmartGatex.Business.AssemblyInfoInputs.cache
+C:\Users\unilogistix\source\repos\SmartGatexApp\SmartGatex.Business\obj\Debug\net5.0\SmartGatex.Business.AssemblyInfo.cs
+C:\Users\unilogistix\source\repos\SmartGatexApp\SmartGatex.Business\obj\Debug\net5.0\SmartGatex.Business.csproj.CoreCompileInputs.cache
+C:\Users\unilogistix\source\repos\SmartGatexApp\SmartGatex.Business\obj\Debug\net5.0\SmartGatex.Business.dll
+C:\Users\unilogistix\source\repos\SmartGatexApp\SmartGatex.Business\obj\Debug\net5.0\ref\SmartGatex.Business.dll
+C:\Users\unilogistix\source\repos\SmartGatexApp\SmartGatex.Business\obj\Debug\net5.0\SmartGatex.Business.pdb
+C:\Users\unilogistix\source\repos\SmartGatexApp\SmartGatex.Business\bin\Debug\net5.0\SmartGatex.DataAccess.dll
+C:\Users\unilogistix\source\repos\SmartGatexApp\SmartGatex.Business\bin\Debug\net5.0\SmartGatex.Entity.dll
+C:\Users\unilogistix\source\repos\SmartGatexApp\SmartGatex.Business\bin\Debug\net5.0\SmartGatex.DataAccess.pdb
+C:\Users\unilogistix\source\repos\SmartGatexApp\SmartGatex.Business\bin\Debug\net5.0\SmartGatex.Entity.pdb
+C:\Users\unilogistix\source\repos\SmartGatexApp\SmartGatex.Business\obj\Debug\net5.0\SmartGatex.Business.csproj.CopyComplete

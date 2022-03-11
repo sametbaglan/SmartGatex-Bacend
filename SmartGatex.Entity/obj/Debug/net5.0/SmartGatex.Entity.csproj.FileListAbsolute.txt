@@ -1,0 +1,12 @@
+C:\Users\unilogistix\source\repos\SmartGatexApp\SmartGatex.Entity\bin\Debug\net5.0\SmartGatex.Entity.deps.json
+C:\Users\unilogistix\source\repos\SmartGatexApp\SmartGatex.Entity\bin\Debug\net5.0\SmartGatex.Entity.dll
+C:\Users\unilogistix\source\repos\SmartGatexApp\SmartGatex.Entity\bin\Debug\net5.0\ref\SmartGatex.Entity.dll
+C:\Users\unilogistix\source\repos\SmartGatexApp\SmartGatex.Entity\bin\Debug\net5.0\SmartGatex.Entity.pdb
+C:\Users\unilogistix\source\repos\SmartGatexApp\SmartGatex.Entity\obj\Debug\net5.0\SmartGatex.Entity.csproj.AssemblyReference.cache
+C:\Users\unilogistix\source\repos\SmartGatexApp\SmartGatex.Entity\obj\Debug\net5.0\SmartGatex.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unilogistix\source\repos\SmartGatexApp\SmartGatex.Entity\obj\Debug\net5.0\SmartGatex.Entity.AssemblyInfoInputs.cache
+C:\Users\unilogistix\source\repos\SmartGatexApp\SmartGatex.Entity\obj\Debug\net5.0\SmartGatex.Entity.AssemblyInfo.cs
+C:\Users\unilogistix\source\repos\SmartGatexApp\SmartGatex.Entity\obj\Debug\net5.0\SmartGatex.Entity.csproj.CoreCompileInputs.cache
+C:\Users\unilogistix\source\repos\SmartGatexApp\SmartGatex.Entity\obj\Debug\net5.0\SmartGatex.Entity.dll
+C:\Users\unilogistix\source\repos\SmartGatexApp\SmartGatex.Entity\obj\Debug\net5.0\ref\SmartGatex.Entity.dll
+C:\Users\unilogistix\source\repos\SmartGatexApp\SmartGatex.Entity\obj\Debug\net5.0\SmartGatex.Entity.pdb
