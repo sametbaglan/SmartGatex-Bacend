@@ -395,11 +395,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\unilogistix\\source\\repos\\SmartGatexApp\\SmartGatex.Entity\\SmartGatex.Entity.csproj",
+      "projectUniqueName": "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\SmartGatex-Bacend\\SmartGatex.Entity\\SmartGatex.Entity.csproj",
       "projectName": "SmartGatex.Entity",
-      "projectPath": "C:\\Users\\unilogistix\\source\\repos\\SmartGatexApp\\SmartGatex.Entity\\SmartGatex.Entity.csproj",
+      "projectPath": "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\SmartGatex-Bacend\\SmartGatex.Entity\\SmartGatex.Entity.csproj",
       "packagesPath": "C:\\Users\\unilogistix\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\unilogistix\\source\\repos\\SmartGatexApp\\SmartGatex.Entity\\obj\\",
+      "outputPath": "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\SmartGatex-Bacend\\SmartGatex.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\unilogistix\\source\\repos\\SmartGatexApp\\SmartGatex.Casching\\SmartGatex.Casching.csproj": {}
+    "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\SmartGatex-Bacend\\SmartGatex.Casching\\SmartGatex.Casching.csproj": {}
   },
   "projects": {
-    "C:\\Users\\unilogistix\\source\\repos\\SmartGatexApp\\SmartGatex.Business\\SmartGatex.Business.csproj": {
+    "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\SmartGatex-Bacend\\SmartGatex.Business\\SmartGatex.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\unilogistix\\source\\repos\\SmartGatexApp\\SmartGatex.Business\\SmartGatex.Business.csproj",
+        "projectUniqueName": "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\SmartGatex-Bacend\\SmartGatex.Business\\SmartGatex.Business.csproj",
         "projectName": "SmartGatex.Business",
-        "projectPath": "C:\\Users\\unilogistix\\source\\repos\\SmartGatexApp\\SmartGatex.Business\\SmartGatex.Business.csproj",
+        "projectPath": "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\SmartGatex-Bacend\\SmartGatex.Business\\SmartGatex.Business.csproj",
         "packagesPath": "C:\\Users\\unilogistix\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\unilogistix\\source\\repos\\SmartGatexApp\\SmartGatex.Business\\obj\\",
+        "outputPath": "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\SmartGatex-Bacend\\SmartGatex.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -36,8 +36,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\unilogistix\\source\\repos\\SmartGatexApp\\SmartGatex.DataAccess\\SmartGatex.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\unilogistix\\source\\repos\\SmartGatexApp\\SmartGatex.DataAccess\\SmartGatex.DataAccess.csproj"
+              "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\SmartGatex-Bacend\\SmartGatex.DataAccess\\SmartGatex.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\SmartGatex-Bacend\\SmartGatex.DataAccess\\SmartGatex.DataAccess.csproj"
               }
             }
           }
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\unilogistix\\source\\repos\\SmartGatexApp\\SmartGatex.Casching\\SmartGatex.Casching.csproj": {
+    "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\SmartGatex-Bacend\\SmartGatex.Casching\\SmartGatex.Casching.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\unilogistix\\source\\repos\\SmartGatexApp\\SmartGatex.Casching\\SmartGatex.Casching.csproj",
+        "projectUniqueName": "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\SmartGatex-Bacend\\SmartGatex.Casching\\SmartGatex.Casching.csproj",
         "projectName": "SmartGatex.Casching",
-        "projectPath": "C:\\Users\\unilogistix\\source\\repos\\SmartGatexApp\\SmartGatex.Casching\\SmartGatex.Casching.csproj",
+        "projectPath": "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\SmartGatex-Bacend\\SmartGatex.Casching\\SmartGatex.Casching.csproj",
         "packagesPath": "C:\\Users\\unilogistix\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\unilogistix\\source\\repos\\SmartGatexApp\\SmartGatex.Casching\\obj\\",
+        "outputPath": "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\SmartGatex-Bacend\\SmartGatex.Casching\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -102,8 +102,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\unilogistix\\source\\repos\\SmartGatexApp\\SmartGatex.Business\\SmartGatex.Business.csproj": {
-                "projectPath": "C:\\Users\\unilogistix\\source\\repos\\SmartGatexApp\\SmartGatex.Business\\SmartGatex.Business.csproj"
+              "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\SmartGatex-Bacend\\SmartGatex.Business\\SmartGatex.Business.csproj": {
+                "projectPath": "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\SmartGatex-Bacend\\SmartGatex.Business\\SmartGatex.Business.csproj"
               }
             }
           }
@@ -142,14 +142,14 @@
         }
       }
     },
-    "C:\\Users\\unilogistix\\source\\repos\\SmartGatexApp\\SmartGatex.DataAccess\\SmartGatex.DataAccess.csproj": {
+    "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\SmartGatex-Bacend\\SmartGatex.DataAccess\\SmartGatex.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\unilogistix\\source\\repos\\SmartGatexApp\\SmartGatex.DataAccess\\SmartGatex.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\SmartGatex-Bacend\\SmartGatex.DataAccess\\SmartGatex.DataAccess.csproj",
         "projectName": "SmartGatex.DataAccess",
-        "projectPath": "C:\\Users\\unilogistix\\source\\repos\\SmartGatexApp\\SmartGatex.DataAccess\\SmartGatex.DataAccess.csproj",
+        "projectPath": "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\SmartGatex-Bacend\\SmartGatex.DataAccess\\SmartGatex.DataAccess.csproj",
         "packagesPath": "C:\\Users\\unilogistix\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\unilogistix\\source\\repos\\SmartGatexApp\\SmartGatex.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\SmartGatex-Bacend\\SmartGatex.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -174,8 +174,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\unilogistix\\source\\repos\\SmartGatexApp\\SmartGatex.Entity\\SmartGatex.Entity.csproj": {
-                "projectPath": "C:\\Users\\unilogistix\\source\\repos\\SmartGatexApp\\SmartGatex.Entity\\SmartGatex.Entity.csproj"
+              "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\SmartGatex-Bacend\\SmartGatex.Entity\\SmartGatex.Entity.csproj": {
+                "projectPath": "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\SmartGatex-Bacend\\SmartGatex.Entity\\SmartGatex.Entity.csproj"
               }
             }
           }
@@ -230,14 +230,14 @@
         }
       }
     },
-    "C:\\Users\\unilogistix\\source\\repos\\SmartGatexApp\\SmartGatex.Entity\\SmartGatex.Entity.csproj": {
+    "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\SmartGatex-Bacend\\SmartGatex.Entity\\SmartGatex.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\unilogistix\\source\\repos\\SmartGatexApp\\SmartGatex.Entity\\SmartGatex.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\SmartGatex-Bacend\\SmartGatex.Entity\\SmartGatex.Entity.csproj",
         "projectName": "SmartGatex.Entity",
-        "projectPath": "C:\\Users\\unilogistix\\source\\repos\\SmartGatexApp\\SmartGatex.Entity\\SmartGatex.Entity.csproj",
+        "projectPath": "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\SmartGatex-Bacend\\SmartGatex.Entity\\SmartGatex.Entity.csproj",
         "packagesPath": "C:\\Users\\unilogistix\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\unilogistix\\source\\repos\\SmartGatexApp\\SmartGatex.Entity\\obj\\",
+        "outputPath": "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\SmartGatex-Bacend\\SmartGatex.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

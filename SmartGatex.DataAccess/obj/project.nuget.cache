@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d2Pz70rvrKn4jlJV9HsSmwXFwK5ku4keXGt6IfLgzvO8mSNQQE6wYP2fnrgnSv1ZTHTjqBgGwaszzLJd8Xo+2Q==",
+  "dgSpecHash": "L4Of0kiOKDeYriomOu03tMLbygp25xeS5+jO/uLpAuiarv7/eqjiMEcfwX/tR5oniivs8xmCmOymNHOfAFwJ1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\unilogistix\\source\\repos\\SmartGatexApp\\SmartGatex.DataAccess\\SmartGatex.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\SmartGatex-Bacend\\SmartGatex.DataAccess\\SmartGatex.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\unilogistix\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\unilogistix\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

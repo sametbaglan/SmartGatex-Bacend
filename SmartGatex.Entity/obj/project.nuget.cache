@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o5t2w36HF/+B1LL53bz+ymfMtOnyFwuHqrrTzM2UxscraiSLXzibPjAkHi8O/L4ZbYZ1DobKBNe4JxW6RFZPSA==",
+  "dgSpecHash": "YIhk/0Zb11XNIzohpKQJsns5lD8e58rtrUTml9cGY4Lvi9toU4DLRbu/OffXM6JYNcMOehpOdsjKDTRKV7DN6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\unilogistix\\source\\repos\\SmartGatexApp\\SmartGatex.Entity\\SmartGatex.Entity.csproj",
+  "projectFilePath": "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\SmartGatex-Bacend\\SmartGatex.Entity\\SmartGatex.Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\unilogistix\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\unilogistix\\.nuget\\packages\\mongodb.bson\\2.14.1\\mongodb.bson.2.14.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vd8Q8/TW1rTXcOhG6Ah/1bbMpX0vtYzfmFZtj/DYRls9M59teusG5QbDu9wg7p/cPRBPfCCxHTlnVnfCsSeniw==",
+  "dgSpecHash": "i7g+8cOI2aswUn5h/rhGdxhFGCNhluWATe1YiI+ZTQ5yGqItq4dfLMNz5xhJKk4miTDAFOJ6BlVu6q22Yew9xw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\unilogistix\\source\\repos\\SmartGatexApp\\SmartGatex.Api\\SmartGatex.Api.csproj",
+  "projectFilePath": "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\SmartGatex-Bacend\\SmartGatex.Api\\SmartGatex.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\unilogistix\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\unilogistix\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
